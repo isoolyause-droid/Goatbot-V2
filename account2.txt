@@ -1,11 +1,137 @@
-# Backup Account #2 - Paste your second Facebook account credentials here
-# This account will be used if account.txt fails (suspended, locked, etc.)
-#
-# Format options:
-# 1. Cookies (JSON format): [{"key":"c_user","value":"123456","domain":"facebook.com"}]
-# 2. Cookies (string format): c_user=123456; xs=abc123
-# 3. Token: EAAAA...
-# 4. Email/Password: email@example.com|password|2FACode
-# 5. Netscape cookies format
-#
-# Delete this comment and paste your credentials below:
+[
+	{
+		"key": "dbln",
+		"value": "%7B%2261589266663769%22%3A%22bOKle60O%22%2C%2261589629110726%22%3A%22rojyokGd%22%7D",
+		"domain": "facebook.com",
+		"path": "/login/device-based/",
+		"hostOnly": false,
+		"creation": "2026-05-21T17:10:05.052Z",
+		"lastAccessed": "2026-05-21T17:10:05.052Z"
+	},
+	{
+		"key": "datr",
+		"value": "vzoKak22GVOhsxmLzH4AubSd",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-21T17:10:05.052Z",
+		"lastAccessed": "2026-05-21T17:10:05.052Z"
+	},
+	{
+		"key": "locale",
+		"value": "en_US",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-21T17:10:05.052Z",
+		"lastAccessed": "2026-05-21T17:10:05.052Z"
+	},
+	{
+		"key": "vpd",
+		"value": "v1%3B728x360x3",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-21T17:10:05.052Z",
+		"lastAccessed": "2026-05-21T17:10:05.052Z"
+	},
+	{
+		"key": "sb",
+		"value": "wzoKav2ETluCAtYP3PMbCOtQ",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-21T17:10:05.052Z",
+		"lastAccessed": "2026-05-21T17:10:05.052Z"
+	},
+	{
+		"key": "ps_l",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-21T17:10:05.052Z",
+		"lastAccessed": "2026-05-21T17:10:05.052Z"
+	},
+	{
+		"key": "ps_n",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-21T17:10:05.052Z",
+		"lastAccessed": "2026-05-21T17:10:05.052Z"
+	},
+	{
+		"key": "dpr",
+		"value": "3.2983407974243164",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-21T17:10:05.052Z",
+		"lastAccessed": "2026-05-21T17:10:05.052Z"
+	},
+	{
+		"key": "pas",
+		"value": "61589266663769%3Aq4mTONfdBW%2C61589629110726%3AdcW1TeWUIE",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-21T17:10:05.052Z",
+		"lastAccessed": "2026-05-21T17:10:05.052Z"
+	},
+	{
+		"key": "c_user",
+		"value": "61589629110726",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-21T17:10:05.052Z",
+		"lastAccessed": "2026-05-21T17:10:05.052Z"
+	},
+	{
+		"key": "xs",
+		"value": "47%3AAsBLXx9g0k3-Ew%3A2%3A1779370896%3A-1%3A-1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-21T17:10:05.053Z",
+		"lastAccessed": "2026-05-21T17:10:05.053Z"
+	},
+	{
+		"key": "wd",
+		"value": "891x1802",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-21T17:10:05.053Z",
+		"lastAccessed": "2026-05-21T17:10:05.053Z"
+	},
+	{
+		"key": "fr",
+		"value": "1j1tYfMOWpdCoV54e.AWdbP-1NhEMOIbtx9ER3IZqrKENuZDm7AHcOMvEFpHvKjnrkDLw.BqDRXd..AAA.0.0.BqDzul.AWfQSzHpdE8GxBBme88iKR28084",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-21T17:10:05.053Z",
+		"lastAccessed": "2026-05-21T17:10:05.053Z"
+	},
+	{
+		"key": "fbl_st",
+		"value": "101736184%3BT%3A29656386",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-21T17:10:05.053Z",
+		"lastAccessed": "2026-05-21T17:10:05.053Z"
+	},
+	{
+		"key": "wl_cbv",
+		"value": "v2%3Bclient_version%3A3167%3Btimestamp%3A1779383205",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-21T17:10:05.053Z",
+		"lastAccessed": "2026-05-21T17:10:05.053Z"
+	}
+]
